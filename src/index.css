@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
-.nav-btn{
+.btn{
   @apply bg-gray-400 text-white rounded-xl p-2;
 }
 
-.nav-btn-active{
+.btn-active{
   @apply bg-gray-600 text-white rounded-xl p-2;
 }
 
