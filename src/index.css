@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+.nav-btn{
+  @apply bg-gray-400 text-white rounded-xl p-2;
+}
+
+.nav-btn-active{
+  @apply bg-gray-600 text-white rounded-xl p-2;
+}
+
+/*
+  prevents from marking/copying text
+  it is only used at places where it could get annoying like buttons
+*/
+.no-copy {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}

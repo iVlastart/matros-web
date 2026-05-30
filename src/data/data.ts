@@ -1,0 +1,1 @@
+export const nav:Array<string> = ['bazar', 'seznamka', 'facebook', 'threads', 'youtube', 'medialní web'];
