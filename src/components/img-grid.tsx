@@ -8,7 +8,7 @@ export default function ImgGrid({ images, folder }: IImgGrid) {
 
     return (
         <>
-            <div className="w-full h-full grid lg:grid-cols-3 md:grid-cols-2 max-sm:grid-cols-1 gap-4 pt-3">
+            <div className="w-full h-full grid lg:grid-cols-3 md:grid-cols-2 max-sm:grid-cols-1 gap-4 py-3 overflow-y-scroll overflow-x-hidden  ">
                 {images.map((img, key) => {
                     const imageUrl = `https://raw.githubusercontent.com/iVlastart/matro-/main/${folder}/${img.img}.png`;
 

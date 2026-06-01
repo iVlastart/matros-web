@@ -12,7 +12,7 @@ const imageCollections: Record<string, any[]> = {
 export default function Index(){
   const [activeNav, setActiveNav] = useState<string>('bazar');
   return(
-    <div className="w-screen h-screen flex flex-col items-center py-5">
+    <div className="w-screen h-screen flex flex-col items-center py-5 overflow-hidden">
       <Nav activeNav={activeNav} setActiveNav={setActiveNav} />
       <ImgGrid images={imageCollections[activeNav]||[]} folder={activeNav} />
     </div>
