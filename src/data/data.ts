@@ -2,7 +2,7 @@ export const nav:Array<string> = ['bazar', 'seznamka', 'facebook', 'threads', 'y
 
 export const bazar_nav:Array<string> = ['vše', 'auto', 'kolo', 'mobil', 'nábytek', 'elektronika', 'nájem', 'neshoda', 'nečeština', 'ostatní'];
 
-export const bazar = [
+export const bazar:Array<{}> = [
     {img:'ALU-kola', type:'auto'},
     {img:'CD_kalhoty_flek_na_zadku', type:'ostatní'},
     {img:'Dusan', type:'neshoda'},
@@ -21,4 +21,31 @@ export const bazar = [
     {img:'horske_kolo_maso', type:'neshoda'},
     {img:'hruzneznackyovladace', type:'elektronika'},
     {img:'iphone_hell', type:'neshoda'},
+    {img:'ipone_pocitac', type:'elektronika'},
+    {img:'jezis_marja', type:'ostatní'},
+    {img:'kolo_horski_super', type:'kolo'},
+    {img:'kopim_slivovici', type:'nečeština'},
+    {img:'kruti_na_mobil', type:'mobil'},
+    {img:'mam_noutbuc_Lenovo_porucha_videa', type:'elektronika'},
+    {img:'mikrovlnna_lednice', type:'neshoda'},
+    {img:'na_fotce_to_videt', type:'elektronika'},
+    {img:'nefuksni_jiskry_odry', type:'auto'},
+    {img:'nutella', type:'neshoda'},
+    {img:'oktavija_benzin_16_TDI_vimnenim', type:'auto'},
+    {img:'postel_na_bahne', type:'nábytek'},
+    {img:'pracka_chybi_dvirka', type:'elektronika'},
+    {img:'pracka_pousti_dosli_uhliky', type:'elektronika'},
+    {img:'prdam', type:'nečeština'},
+    {img:'rad_bych_oral', type:'ostatní'},
+    {img:'shanim_bit_Pilzen', type:'nájem'},
+    {img:'sklad_4m2_Brno', type:'nájem'},
+    {img:'suzuki2,0ND', type:'auto'},
+    {img:'telefon_alkate_prasklin', type:'mobil'},
+    {img:'tellegonipohne11', type:'mobil'},
+    {img:'to_je_proste_likvidacni__rozkaz', type:'ostatní'},
+    {img:'varning', type:'mobil'},
+    {img:'zajem_o_stare_cigarety', type:'ostatní'},
+    {img:'zveme', type:'ostatní'},
 ];
+
+export const medialni_web = [];
