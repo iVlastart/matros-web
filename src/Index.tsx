@@ -1,12 +1,13 @@
 import { useState } from "react";
 import { Nav } from "./components/nav";
 import ImgGrid from "./components/img-grid";
-import { bazar, medialni_web, seznamka } from "./data/data";
+import { bazar, facebook, medialni_web, seznamka } from "./data/data";
 
 const imageCollections: Record<string, any[]> = {
   "medialní web": medialni_web,
   "bazar": bazar,
   "seznamka": seznamka,
+  'facebook': facebook
 };
 
 export default function Index(){

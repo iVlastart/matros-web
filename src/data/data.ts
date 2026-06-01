@@ -59,9 +59,26 @@ export const medialni_web:Image[] = [
 ];
 
 export const seznamka:Image[] = [
-    {img:'CDC_i_WHO_jsou_teroristicke'},
-    {img:'czechxit'},
-    {img:'ebola_gay'},
-    {img:'no_go_zony'},
-    {img:'pokladka'},
+    {img:'gay_homofob'},
+    {img:'hledam_stach'},
+    {img:'jsem_zadana'},
+    {img:'krast_naftu'},
+    {img:'nemela_nohu'},
+];
+
+export const facebook:Image[] = [
+    {img:'USAcky_bordel_lisejnik'},
+    {img:'babisi_jste_dobry'},
+    {img:'bambuch_s_nami_a_zlin_pryc'},
+    {img:'bruselsky_rozum'},
+    {img:'dim_voskovich_viguryn'},
+    {img:'dite_na_zkousku'},
+    {img:'dnes_sout'},
+    {img:'hanta_podvod'},
+    {img:'kdis_dou_dety'},
+    {img:'kosmanout'},
+    {img:'lidi_jsou_hajzly'},
+    {img:'lolokaust'},
+    {img:'moj_dzem'},
+    {img:'nekdo_zakopne_o_deti_zenu'},
 ];
