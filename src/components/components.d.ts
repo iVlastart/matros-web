@@ -5,7 +5,6 @@ export interface INav {
 
 interface Image{
     img: string;
-    type:strnig
 }
 export interface IImgGrid{
     images: Image[];
