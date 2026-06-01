@@ -1,6 +1,10 @@
+import type { Image } from "../components/components";
+
+//nav
 export const nav:Array<string> = ['bazar', 'seznamka', 'facebook', 'threads', 'youtube', 'medialní web'];
 
-export const bazar:Array<{}> = [
+//arrays containing image data
+export const bazar:Image[] = [
     {img:'ALU_kola'},
     {img:'CD_kalhoty_flek_na_zadku'},
     {img:'Dusan'},
@@ -46,7 +50,7 @@ export const bazar:Array<{}> = [
     {img:'zveme'},
 ];
 
-export const medialni_web:Array<{}> = [
+export const medialni_web:Image[] = [
     {img:'CDC_i_WHO_jsou_teroristicke'},
     {img:'czechxit'},
     {img:'ebola_gay'},
@@ -54,7 +58,7 @@ export const medialni_web:Array<{}> = [
     {img:'pokladka'},
 ];
 
-export const seznamka:Array<{}> = [
+export const seznamka:Image[] = [
     {img:'CDC_i_WHO_jsou_teroristicke'},
     {img:'czechxit'},
     {img:'ebola_gay'},

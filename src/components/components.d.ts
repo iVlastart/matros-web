@@ -6,6 +6,7 @@ export interface INav {
 interface Image{
     img: string;
 }
+
 export interface IImgGrid{
     images: Image[];
     folder: string;
