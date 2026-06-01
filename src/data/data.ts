@@ -3,7 +3,7 @@ export const nav:Array<string> = ['bazar', 'seznamka', 'facebook', 'threads', 'y
 export const bazar_nav:Array<string> = ['vše', 'auto', 'kolo', 'mobil', 'nábytek', 'elektronika', 'nájem', 'neshoda', 'nečeština', 'ostatní'];
 
 export const bazar:Array<{}> = [
-    {img:'ALU-kola', type:'auto'},
+    {img:'ALU_kola', type:'auto'},
     {img:'CD_kalhoty_flek_na_zadku', type:'ostatní'},
     {img:'Dusan', type:'neshoda'},
     {img:'LG_velvet_128GB', type:'mobil'},
