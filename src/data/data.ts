@@ -96,6 +96,7 @@ export const facebook:Image[] = [
     {img:'turecky_super_caj'},
     {img:'voda_na_kouli'},
     {img:'zmizela_penezenka_ze_stola'},
+    {img:'euro_mrtve'},
 ];
 
 export const threads:Image[] = [
