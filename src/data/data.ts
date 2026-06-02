@@ -71,7 +71,6 @@ export const facebook:Image[] = [
     {img:'babisi_jste_dobry'},
     {img:'bambuch_s_nami_a_zlin_pryc'},
     {img:'bruselsky_rozum'},
-    {img:'dim_voskovich_viguryn'},
     {img:'dite_na_zkousku'},
     {img:'dnes_sout'},
     {img:'hanta_podvod'},
@@ -81,4 +80,31 @@ export const facebook:Image[] = [
     {img:'lolokaust'},
     {img:'moj_dzem'},
     {img:'nekdo_zakopne_o_deti_zenu'},
+    {img:'neverte_termo_taskam'},
+    {img:'obetovan_cernemu_dablu_trojka'},
+    {img:'ocut_stehuji_do_pici'},
+    {img:'ohnout_zenskou'},
+    {img:'opchod_z_chudobou'},
+    {img:'piti_moci'},
+    {img:'porodni_drive'},
+    {img:'psany_tatarstina'},
+    {img:'radsi_to_nakreslete'},
+    {img:'spatren_pterodaktyl'},
+    {img:'syr_domaci_s_curaka'},
+    {img:'tehotna_se_psem'},
+    {img:'to_uz_je_tlak'},
+    {img:'turecky_super_caj'},
+    {img:'voda_na_kouli'},
+    {img:'zmizela_penezenka_ze_stola'},
+];
+
+export const threads:Image[] = [
+    {img:'chcije_zeptat'},
+    {img:'pet_let_me_suka_pes'},
+    {img:'ukazme_u_krajimcum_hokej'},
+];
+
+export const youtube:Image[] = [
+    {img:'dim_voskovich_viguryn'},
+    {img:'uz_sitrejsi'},
 ];
