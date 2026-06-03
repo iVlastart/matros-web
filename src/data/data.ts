@@ -98,6 +98,7 @@ export const facebook:Image[] = [
     {img:'zmizela_penezenka_ze_stola'},
     {img:'euro_mrtve'},
     {img:'kaufland_ua_zaloba'},
+    {img:'DonaltTrap'},
 ];
 
 export const threads:Image[] = [
