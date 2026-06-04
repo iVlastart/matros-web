@@ -99,6 +99,8 @@ export const facebook:Image[] = [
     {img:'euro_mrtve'},
     {img:'kaufland_ua_zaloba'},
     {img:'DonaltTrap'},
+    {img:'spd_jako_spd'},
+    {img:'klokan_skocil'},
 ];
 
 export const threads:Image[] = [
